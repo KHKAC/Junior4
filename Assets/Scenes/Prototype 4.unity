@@ -383,6 +383,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sm: {fileID: 852624963}
   powerupIndicator: {fileID: 887567009}
+  minePrefab: {fileID: 5118020820544099019, guid: d3779f31d7bb0ae4694588b98b2985f4, type: 3}
+  isExistMine: 0
   hasPowerup: 0
   speed: 2
 --- !u!1001 &1194348435

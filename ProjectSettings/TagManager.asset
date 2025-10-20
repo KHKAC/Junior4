@@ -6,6 +6,7 @@ TagManager:
   tags:
   - POWERUP
   - ENEMY
+  - MINE
   layers:
   - Default
   - TransparentFX
